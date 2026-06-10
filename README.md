@@ -1,3 +1,3 @@
 # Kino
 
-naked black dude favor
+# 1. Datenbank aufsetzen
