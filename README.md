@@ -1,6 +1,8 @@
 # Kino
 
-## 1. Datenbank aufsetzen
+## 1. Projektbeschreibung/skizze
 
 
-## 2. Projektstruktur anlegen
+## 2.  Datenbank 
+
+
