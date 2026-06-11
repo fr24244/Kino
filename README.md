@@ -1,8 +1,8 @@
 # Kino
 
-## 1. Projektbeschreibung/skizze
+## 1.
 
 
-## 2.  Datenbank 
+## 2.   
 
 
