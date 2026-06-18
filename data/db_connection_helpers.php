@@ -97,7 +97,6 @@ function insertAndGetID($sql)
 }
 
 
-require_once 'db_connection_helpers.php';
 
 $dbc = connect();
 
