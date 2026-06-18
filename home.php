@@ -9,14 +9,14 @@ $movies = [
     ['id' => 7, 'title' => 'Avatar', 'image' => 'image/67c4edb9ed7171001ce7897c.jpg'],
     ['id' => 8, 'title' => 'Gladiator', 'image' => 'image/_104145803_gladiator_gettyuniversal.jpg'],
     ['id' => 9, 'title' => 'The Dark Knight', 'image' => 'image/811tXkUfYfL.jpg'],
-    ['id' => 10, 'title' => 'Pulp Fiction', 'image' => 'image/4a38739d-981a-4535-8728-e93998309be9.avif'],
+    ['id' => 10, 'title' => 'Pulp Fiction', 'image' => 'image/rs-18853-20140521-pulpfiction-x1800-1400688719.webp'],
     ['id' => 11, 'title' => 'Fight Club', 'image' => 'image/4d2e5508-206c-40a5-8de4-71e7998daf46-data.jpg'],
     ['id' => 12, 'title' => 'Forrest Gump', 'image' => 'image/forrestgump01-978x652.jpg']
 ];
 ?>
 
 <div class="header-nav">
-    <h1>Available Movies</h1>
+    <h1>Cinematickets</h1>
 
     <form method="GET" action="index.php" style="margin: 0 20px; flex: 1; max-width: 300px;">
         <input type="hidden" name="page" value="home">
