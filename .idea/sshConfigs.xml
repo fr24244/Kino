@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="foxi.am.lu" id="97cd9697-d299-4720-aa73-65dcfa57227a" port="22" nameFormat="DESCRIPTIVE" username="ilema548" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
